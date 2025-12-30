@@ -117,6 +117,14 @@ $z = \frac{p_ttest - p_ccontrol}{\sqrt{\frac{\sigma_1^2}{n_ttest} + \frac{\sigma
 - Задокументировать результат для будущих A/B-тестов
 
 
+<div align="center">
+<img src=https://github.com/lilvillain404/AB-testing/blob/main/ABgif.gif width="600">
+</div>  
+
+<p align="center">
+  <b>Спасибо, что заглянули в мой проект!</b><br>
+  Буду рада вашим отзывам и предложениям.
+</p>
 
 
 
